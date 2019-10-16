@@ -12,8 +12,7 @@ _(This is a good reference to know the strength and weaknesses in the EDA)_
 * Investigate_a_Dataset_review1.pdf => first submission review
 * Invertigate_a_Dataset_review2.pdf => second submission review 
 
-###
- EDA Preview :
+### EDA Preview :
 _(Notebook in other formats in case issue in rendering)_
 * Investigate_a_Dataset.html => an HTML version of the notebook.
 * Investigate_a_Dataset.pdf => PDF version of the notebook
